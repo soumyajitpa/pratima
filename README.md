@@ -1,0 +1,2 @@
+# pratima
+waste managment
